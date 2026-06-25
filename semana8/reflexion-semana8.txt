@@ -1,0 +1,8 @@
+La seguridad digital es fundamental porque garantiza la protección de la información 
+y la integridad de las plataformas usadas por comunidades. Sin controles adecuados, 
+los datos pueden ser vulnerados, alterados o eliminados, afectando directamente la 
+confianza de los usuarios. Además, en procesos participativos, la transparencia y la 
+veracidad de la información son clave, por lo que cualquier incidente de seguridad puede 
+deslegitimar los resultados. Implementar medidas como control de accesos, cifrado y monitoreo 
+permite prevenir ataques y detectar anomalías a tiempo. También asegura la continuidad del servicio, 
+evitando interrupciones que afecten la participación

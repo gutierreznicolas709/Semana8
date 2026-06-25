@@ -1,0 +1,9 @@
+1. Aplicar principio de mínimo privilegio en usuarios y roles.
+
+2. Implementar autenticación fuerte
+
+3. Mantener sistemas y dependencias actualizadas (parches de seguridad).
+
+4. Realizar copias de seguridad periódicas y verificadas.
+
+5. Monitorear y auditar logs de actividad para detectar anomalías.

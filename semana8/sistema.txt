@@ -1,0 +1,16 @@
+1.Qué información muestra cada comando.
+
+- uname -a: Este comando muestra información completa del sistema operativo Linux.
+Linux codespaces-2242a1 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+
+whoami:Muestra el usuario con el que estás conectado actualmente.
+ codespace
+
+2.Por qué es útil conocer información del sistema cuando se administra un servidor:
+Es valioso porque nos permite identificar el sistema operativo en el que estamos trabajando,
+lo que facilita comprobar si el equipo admite los comandos que deseamos ejecutar, ya que estos
+varían según la plataforma. Además, brinda información sobre la versión instalada, su correcto 
+funcionamiento y la necesidad de actualizarla en caso de fallos. También ofrece una visión del estado 
+general del sistema, incluyendo el rendimiento y el uso de recursos, aspectos fundamentales para prevenir e
+errores y garantizar un funcionamiento estable y eficiente.
